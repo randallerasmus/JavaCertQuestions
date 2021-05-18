@@ -3,8 +3,7 @@ package com.company;
 public class Main {
 
 //    Which options can fill in the blanks to print Cleaned 2 items?
-//
-//
+
 //            import java.util.*;
 //    class Wash˂T ________ Collection˃ {
 //        T item;
